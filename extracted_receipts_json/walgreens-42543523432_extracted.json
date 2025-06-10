@@ -1,0 +1,56 @@
+[
+    {
+        "store_information": {
+            "name": "Walgreens",
+            "address": "459 Powell St, San Francisco, CA 94102",
+            "phone": "415-954-3793"
+        },
+        "transaction_details": {
+            "store_number": "578",
+            "register_number": "8112",
+            "transaction_number": "0024",
+            "date_time": "07/22/2018 2:56 PM"
+        },
+        "itemized_purchases": [
+            {
+                "item": "C.Geyser Alp Spring",
+                "price": 16.99,
+                "return_value": 0.99
+            },
+            {
+                "item": "CA Redemption Value",
+                "price": 0.1,
+                "return_value": null
+            },
+            {
+                "item": "ITO EN Oi Ocha Green Tea",
+                "price": 16.99,
+                "return_value": 1.0
+            },
+            {
+                "item": "Fresh 2 Go Pita Hm Chs",
+                "price": 74.05,
+                "return_value": 4.29
+            }
+        ],
+        "totals": {
+            "total": 8.41,
+            "payment_method": "MasterCard",
+            "change": 0.0
+        },
+        "payment_information": {
+            "AID": "A0000000041010",
+            "card_type": "Debit MasterCard",
+            "method": "Integrated chip card"
+        },
+        "additional_information": {
+            "rewards": "Balance Rewards",
+            "survey": {
+                "website": "www.walgreenslistens.com",
+                "phone": "1-800-219-7451",
+                "survey_code": "0704-3248-112",
+                "password": "1180-7220-326"
+            }
+        }
+    }
+]

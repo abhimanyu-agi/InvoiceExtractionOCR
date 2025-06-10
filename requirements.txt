@@ -1,0 +1,8 @@
+openai
+fitz
+PyMuPDF
+Pillow
+dotenv
+streamlit
+pandas
+gradio

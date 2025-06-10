@@ -1,0 +1,80 @@
+{
+  "store_information": {
+    "name": "Coca-Cola Store",
+    "address": "3785 Las Vegas Blvd. S. Las Vegas, NV 89109",
+    "phone": "800-810-2653",
+    "store_number": "104"
+  },
+  "transaction_details": {
+    "ticket": "7412",
+    "transaction_number": null,
+    "date": "2019-12-07",
+    "time": "02:13 PM",
+    "store": null,
+    "register": "5",
+    "salesperson": "PHILIP",
+    "cashier": "PHILIP"
+  },
+  "itemized_purchases": [
+    {
+      "item": "Mn Santa Socks 3pk",
+      "code": "200294X",
+      "qty": 1,
+      "price": 12.95,
+      "amount": 12.95,
+      "description": null,
+      "additional_info": null,
+      "return_value": null
+    },
+    {
+      "item": "Mn Stripe W-Script Socks",
+      "code": "190496",
+      "qty": 1,
+      "price": 7.95,
+      "amount": 7.95,
+      "description": null,
+      "additional_info": null,
+      "return_value": null
+    },
+    {
+      "item": "SYM Sub Script Tee-ref",
+      "code": "14258 20257",
+      "qty": 1,
+      "price": 24.95,
+      "amount": 24.95,
+      "description": "Black/Red Heather Grey-LG",
+      "additional_info": null,
+      "return_value": null
+    }
+  ],
+  "totals": {
+    "subtotal": 45.85,
+    "tax": 3.79,
+    "total": 49.64,
+    "currency": null
+  },
+  "payment_information": {
+    "method": "MasterCard Credit Card",
+    "amount": 49.64,
+    "card_number": "************5042",
+    "auth_number": "813064",
+    "transaction_type": "Sale",
+    "entry_method": "Swiped",
+    "auth_time": "02:13 PM",
+    "AID": null,
+    "card_type": null
+  },
+  "additional_information": {
+    "change": 0.0,
+    "return_policy": "Returns/Exchanges must be within 30 days with receipt.",
+    "sold_item_count": 3,
+    "rewards": null,
+    "survey": {
+      "text": "Complete our survey after your visit for 10% off your next purchase at CokeStore.com",
+      "website": "http://CokeURL.com/CCSLSurvey",
+      "phone": null,
+      "survey_code": null,
+      "password": null
+    }
+  }
+}

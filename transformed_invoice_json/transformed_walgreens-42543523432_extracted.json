@@ -1,0 +1,90 @@
+{
+  "store_information": {
+    "name": "Coca-Cola Store",
+    "address": "3785 Las Vegas Blvd. S. Las Vegas, NV 89109",
+    "phone": "800-810-2653",
+    "store_number": "104"
+  },
+  "transaction_details": {
+    "ticket": "7412",
+    "transaction_number": "0024",
+    "date": "2018-07-22",
+    "time": "02:56 PM",
+    "store": null,
+    "register": "8112",
+    "salesperson": "PHILIP",
+    "cashier": "PHILIP"
+  },
+  "itemized_purchases": [
+    {
+      "item": "C.Geyser Alp Spring",
+      "code": null,
+      "qty": 1,
+      "price": 16.99,
+      "amount": 16.99,
+      "description": null,
+      "additional_info": null,
+      "return_value": 0.99
+    },
+    {
+      "item": "CA Redemption Value",
+      "code": null,
+      "qty": 1,
+      "price": 0.1,
+      "amount": 0.1,
+      "description": null,
+      "additional_info": null,
+      "return_value": null
+    },
+    {
+      "item": "ITO EN Oi Ocha Green Tea",
+      "code": null,
+      "qty": 1,
+      "price": 16.99,
+      "amount": 16.99,
+      "description": null,
+      "additional_info": null,
+      "return_value": 1.0
+    },
+    {
+      "item": "Fresh 2 Go Pita Hm Chs",
+      "code": null,
+      "qty": 1,
+      "price": 74.05,
+      "amount": 74.05,
+      "description": null,
+      "additional_info": null,
+      "return_value": 4.29
+    }
+  ],
+  "totals": {
+    "subtotal": null,
+    "tax": null,
+    "total": 8.41,
+    "currency": null
+  },
+  "payment_information": {
+    "method": "MasterCard",
+    "amount": 8.41,
+    "card_number": null,
+    "auth_number": null,
+    "transaction_type": "Sale",
+    "entry_method": "Integrated chip card",
+    "auth_time": "02:56 PM",
+    "AID": "A0000000041010",
+    "card_type": "Debit MasterCard"
+  },
+  "additional_information": {
+    "change": 0.0,
+    "return_policy": "Returns/Exchanges must be within 30 days with receipt.",
+    "sold_item_count": 4,
+    "rewards": "Balance Rewards",
+    "survey": {
+      "text": "Complete our survey after your visit for 10% off your next purchase at CokeStore.com",
+      "website": "www.walgreenslistens.com",
+      "phone": "1-800-219-7451",
+      "survey_code": "0704-3248-112",
+      "password": "1180-7220-326"
+    }
+  }
+}

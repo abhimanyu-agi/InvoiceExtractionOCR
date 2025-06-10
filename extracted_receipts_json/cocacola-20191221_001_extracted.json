@@ -1,0 +1,73 @@
+[
+    {
+        "store_information": {
+            "name": "Coca-Cola Store",
+            "address": "3785 Las Vegas Blvd. S. Las Vegas, NV 89109",
+            "phone": "800-810-2653",
+            "store_number": "104",
+            "register": "5"
+        },
+        "transaction_details": {
+            "ticket": "7412",
+            "date": "12/7/19",
+            "time": "2:13 PM",
+            "salesperson": "PHILIP",
+            "cashier": "PHILIP"
+        },
+        "itemized_purchases": [
+            {
+                "item": "Mn Santa Socks 3pk",
+                "qty": 1,
+                "price": 12.95,
+                "amount": 12.95,
+                "code": "200294"
+            },
+            {
+                "item": "Mn Stripe w-Script Socks",
+                "qty": 1,
+                "price": 7.95,
+                "amount": 7.95,
+                "code": "190496"
+            },
+            {
+                "item": "SYM Sub Script Tee-ref",
+                "qty": 1,
+                "price": 24.95,
+                "amount": 24.95,
+                "code": "14258",
+                "description": "Black/Red"
+            },
+            {
+                "item": "Heather Grey",
+                "qty": "LG",
+                "price": null,
+                "amount": null,
+                "code": "20257"
+            }
+        ],
+        "totals": {
+            "subtotal": 45.85,
+            "tax": 3.79,
+            "total": 49.64
+        },
+        "payment_information": {
+            "method": "MasterCard Credit Card",
+            "amount": 49.64,
+            "card_number": "************5042",
+            "auth_number": "813064",
+            "transaction_type": "Sale",
+            "entry_method": "Swiped",
+            "auth_time": "2:13 PM"
+        },
+        "additional_information": {
+            "change": 0.0,
+            "return_policy": "Returns/Exchanges must be within 30 days with receipt.",
+            "survey": "Complete our survey after your visit for 10% off your next purchase at CokeStore.com",
+            "survey_link": "http://CokeURL.com/CCSLVSurvey",
+            "sold_item_count": 3
+        }
+    },
+    {
+        "error": "No invoice data found in the image."
+    }
+]
