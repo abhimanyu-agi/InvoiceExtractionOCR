@@ -16,9 +16,11 @@ Interactive Dashboard: A simple Gradio web application to view, search, and insp
 
 ### Prerequisites
 
-Python 3.12
-An OpenAI API Key with access to the GPT-4o model.
-A .env file to store your API key securely.
+>Python 3.12
+
+>An OpenAI API Key with access to the GPT-4o model.
+
+>A .env file to store your API key securely.
 
 
 
