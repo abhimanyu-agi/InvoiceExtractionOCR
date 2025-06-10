@@ -24,3 +24,5 @@ Interactive Dashboard: A simple Gradio web application to view, search, and insp
 
 
 
+![draw drawio](https://github.com/user-attachments/assets/fd97679a-102f-427e-b1ac-ccf504654719)
+
